@@ -1,9 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
-  <channel>
-    <title>Token Bar</title>
-    <link>https://github.com/hail2002/tokenbar</link>
-    <description>Most recent changes with links to updates.</description>
-    <language>en</language>
-  </channel>
+    <channel>
+        <title>TokenBar</title>
+        <language>en</language>
+        <item>
+            <title>Version 2.0.0</title>
+            <pubDate>Mon, 23 Mar 2026 23:52:44 +0300</pubDate>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/hail2002/tokenbar/releases/download/v2.0.0/TokenBar.zip"
+                sparkle:version="2"
+                sparkle:shortVersionString="2.0.0"
+                sparkle:edSignature="qFZodqHSdVVVh7kWUhJlI5vgl5y/UvweS5Okl4AM+DmyHOOanf9X2nVQoq9W7DSDMoigkr61PsW2yAhVs2IrBA=="
+                length="2873731"
+                type="application/octet-stream"/>
+        </item>
+    </channel>
 </rss>
