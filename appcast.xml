@@ -4,15 +4,15 @@
         <title>TokenBar</title>
         <language>en</language>
         <item>
-            <title>Version 2.0.6</title>
-            <pubDate>Fri, 27 Mar 2026 08:52:14 +0300</pubDate>
+            <title>Version 2.1.0</title>
+            <pubDate>Fri, 27 Mar 2026 09:34:10 +0300</pubDate>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure
-                url="https://github.com/hail2002/tokenbar/releases/download/v2.0.6/TokenBar.zip"
-                sparkle:version="8"
-                sparkle:shortVersionString="2.0.6"
-                sparkle:edSignature="oCSMuiCR9WBo/XuBSiv4NAOOOeqkzWTkemRppyHbmcXGMQgxbDGMuf7tRW9RorACKwmg2SVylrzeoZguehIdBg=="
-                length="2763826"
+                url="https://github.com/hail2002/tokenbar/releases/download/v2.1.0/TokenBar.zip"
+                sparkle:version="9"
+                sparkle:shortVersionString="2.1.0"
+                sparkle:edSignature="RjKx6O+iZ3JQZXPm+V0dyzxX/8mKV+4S+BlO4VIW0pG6RA7lIMTOsAZDhzF3pGFbZpV4v9Fv4uVhWpbEDHZoBg=="
+                length="1856457"
                 type="application/octet-stream"/>
         </item>
     </channel>
